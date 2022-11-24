@@ -1,2 +1,2 @@
 My second commit
-My second commit is not up to date
+My second commit is now up to date
